@@ -34,4 +34,4 @@ npm run dev
 
 ## Check the Hand-Over
 
-[here](https://github.com/Web-Architecture-Project/Frontend-Web/Hand-Over.pdf)
+[Click here](https://github.com/Web-Architecture-Project/Frontend-Web/blob/main/Hand-Over.pdf)
